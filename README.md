@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on research works
 - 📫 How to reach me : Khareludhav4@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 udhavkharel/udhavkharel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
